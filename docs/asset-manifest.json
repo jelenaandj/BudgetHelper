@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BudgetHelper/static/css/main.290a64e4.css",
+    "main.js": "/BudgetHelper/static/js/main.9e1f13fb.js",
+    "index.html": "/BudgetHelper/index.html",
+    "main.290a64e4.css.map": "/BudgetHelper/static/css/main.290a64e4.css.map",
+    "main.9e1f13fb.js.map": "/BudgetHelper/static/js/main.9e1f13fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.290a64e4.css",
+    "static/js/main.9e1f13fb.js"
+  ]
+}
